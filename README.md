@@ -1,6 +1,5 @@
 # Cronômetro React Native
 
-![Alt text](image.png)
 
 ## Descrição
 
@@ -46,3 +45,7 @@ Contribuições são bem-vindas! Se você deseja contribuir para o desenvolvimen
 O "Cronômetro React Native" é licenciado sob a Licença MIT. Para obter detalhes sobre os termos da licença, consulte o arquivo LICENSE.
 
 Aproveite o uso do "Cronômetro React Native" para medir o tempo com precisão e eficiência em suas atividades e projetos!
+
+<p align="center">
+  <img src="image-1.png" alt="Cronometro" />
+</p>
