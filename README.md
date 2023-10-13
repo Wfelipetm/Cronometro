@@ -29,13 +29,14 @@ Antes de começar, certifique-se de ter o ambiente de desenvolvimento React Nati
    npm install
 
 4. Execute o aplicativo em um emulador ou dispositivo iOS ou Android:
-
-Para iOS:
+   
    ```bash
+   Para iOS:
+   
    npm install
 
-Para Android:
-   ```bash
+   Para Android:
+ 
    npm run android
 
 
