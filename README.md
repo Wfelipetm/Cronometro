@@ -1,7 +1,6 @@
 # Cronômetro React Native
 
-![Captura de Tela 1](inserir-url-da-imagem)
-![Captura de Tela 2](inserir-url-da-imagem)
+![Alt text](image.png)
 
 ## Descrição
 
