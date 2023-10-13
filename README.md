@@ -17,3 +17,8 @@ Antes de começar, certifique-se de ter o ambiente de desenvolvimento React Nati
 
    ```bash
    git clone https://github.com/seu-usuario/cronometro-react-native.git
+
+2. Navegue até o diretório do projeto.
+
+```bash
+  cd cronometro-react-native
